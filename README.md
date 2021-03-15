@@ -11,3 +11,5 @@ This is a simple website project for showing how to use Git and Github together.
 ## How To Contribute
 
 ## Deployment
+
+##Copyright
